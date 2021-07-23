@@ -2,15 +2,17 @@
 
 <!--
 **WinnersProx/WinnersProx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
+ 
+ 
 
-Here are some ideas to get you started:
+I'm Vainqueur Bihame AKA Winner, a lifelong learner with a hope to impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🖥️  I am a full-stack developer (Typescript, React, Vue.js, Node.js, Laravel and whatever is coming)
+- 🔥 It's hard to break-up with Angular as it's from Google
+- 🧑‍🚒 Jamstack Enthusiat (Next.js)
+- 💬 Reach out for more
+
+- [Linkedin](https://www.linkedin.com/in/vainqueur-bihame-10a0b3179/)
+- [Twitter](https://twitter.com/WinnersProx)
