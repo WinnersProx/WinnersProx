@@ -9,7 +9,7 @@
 I'm Vainqueur Bihame AKA Winner, a lifelong learner with a hope to impact
 
 
-- 🖥️  I am a full-stack developer (Typescript, React, Vue.js, Node.js, Laravel and whatever is coming)
+- 🖥️ I am a full-stack developer (Typescript, React, Vue.js, Node.js, Laravel and whatever is coming)
 - 🔥 It's hard to break-up with Angular as it's from Google
 - 🧑‍🚒 Jamstack Enthusiat (Next.js)
 - 💬 Reach out for more
